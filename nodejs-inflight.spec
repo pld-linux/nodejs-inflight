@@ -21,8 +21,8 @@ BuildRequires:	nodejs-tap
 BuildRequires:	nodejs-wrappy
 %endif
 Requires:	nodejs
+Requires:	nodejs-once < 2.0.0
 Requires:	nodejs-once >= 1.3.0
-Requires:	nodejs-once >= 2.0.0
 Requires:	nodejs-wrappy < 2
 Requires:	nodejs-wrappy >= 1
 BuildArch:	noarch
