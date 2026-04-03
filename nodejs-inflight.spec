@@ -6,7 +6,7 @@
 Summary:	Node.js inflight
 Name:		nodejs-%{pkg}
 Version:	1.0.4
-Release:	1
+Release:	2
 License:	ISC
 Group:		Development/Libraries
 Source0:	http://registry.npmjs.org/inflight/-/inflight-%{version}.tgz
